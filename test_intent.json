@@ -1,0 +1,13 @@
+{"intents":
+[
+            {
+             "tag":"greetings",
+             "patterns": ["good morning", "good afternoon", "how's it going", "good evening", "how have you been", "what’s happening", "what’s going on"],
+             "responses":["hello","hey!","Good to see you!", "Hi, how can I help you?","What can i do for you?"]
+            },
+            {
+                "tag":"Diabetes symptoms",
+                "patterns": ["feeling hungry", "need to drink more water", "losing weight without trying", "need to pee often", "vision is hazy", "always tired"],
+                "responses":["It seems that you are suffering from Diabetes"]
+               }
+]}

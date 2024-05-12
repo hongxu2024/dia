@@ -80,6 +80,3 @@ def chat():
 if __name__ == '__main__':
     app.run()
 
-
-#Reference:the html template is from https://github.com/binary-hood/ChatBot-Starter
-#          some of the data come from https://github.com/amberkakkar01/Health-Care-Chatbot/blob/main/intents.json
